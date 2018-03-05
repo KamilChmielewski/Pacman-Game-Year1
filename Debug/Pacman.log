@@ -1,0 +1,84 @@
+﻿  Pacman.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\vector(660): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\vector(639): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  f:\pacman\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+f:\pacman\pacman\pacman.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\pacman\pacman\pacman.cpp(84): warning C4154: deletion of an array expression; conversion to pointer supplied
+f:\pacman\pacman\pacman.cpp(206): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\pacman\pacman\pacman.cpp(210): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\pacman\pacman\pacman.cpp(226): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\pacman\pacman\pacman.cpp(227): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\pacman\pacman\pacman.cpp(235): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\pacman\pacman\pacman.cpp(235): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+f:\pacman\pacman\pacman.cpp(240): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\pacman\pacman\pacman.cpp(288): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\pacman\pacman\pacman.cpp(289): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\pacman\pacman\pacman.cpp(295): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\pacman\pacman\pacman.cpp(295): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+f:\pacman\pacman\pacman.cpp(301): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\pacman\pacman\pacman.cpp(344): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\pacman\pacman\pacman.cpp(350): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\pacman\pacman\pacman.cpp(350): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+f:\pacman\pacman\pacman.cpp(385): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\pacman\pacman\pacman.cpp(385): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+f:\pacman\pacman\pacman.cpp(387): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\pacman\pacman\pacman.cpp(404): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\pacman\pacman\pacman.cpp(404): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+f:\pacman\pacman\pacman.cpp(406): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\pacman\pacman\pacman.cpp(423): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\pacman\pacman\pacman.cpp(423): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+f:\pacman\pacman\pacman.cpp(425): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\pacman\pacman\pacman.cpp(461): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\pacman\pacman\pacman.cpp(473): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\pacman\pacman\pacman.cpp(483): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\vector(660): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\vector(639): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  f:\pacman\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  Generating Code...
+  Pacman.vcxproj -> F:\Pacman\Pacman\Debug\Pacman.exe
+  Pacman.vcxproj -> F:\Pacman\Pacman\Debug\Pacman.pdb (Partial PDB)
